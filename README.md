@@ -1,6 +1,5 @@
 # nineBlog
-A mini Blog system.
 
-A blog system that powered by:
+A Mini Blog system that is powered by:
 
 Slim Framework and Bootstrap.......
