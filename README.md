@@ -2,4 +2,6 @@
 
 A Mini Blog system that is powered by:
 
-##Slim Framework, Bootstrap and Medoo 
+###Slim Framework
+###Bootstrap
+###Medoo 
